@@ -1,0 +1,8 @@
+D:\console\second project  (Discreet Masimatic)\second project  (Discreet Masimatic)\bin\Debug\second project  (Discreet Masimatic).exe.config
+D:\console\second project  (Discreet Masimatic)\second project  (Discreet Masimatic)\bin\Debug\second project  (Discreet Masimatic).exe
+D:\console\second project  (Discreet Masimatic)\second project  (Discreet Masimatic)\bin\Debug\second project  (Discreet Masimatic).pdb
+D:\console\second project  (Discreet Masimatic)\second project  (Discreet Masimatic)\obj\Debug\second project  (Discreet Masimatic).csproj.AssemblyReference.cache
+D:\console\second project  (Discreet Masimatic)\second project  (Discreet Masimatic)\obj\Debug\second project  (Discreet Masimatic).csproj.SuggestedBindingRedirects.cache
+D:\console\second project  (Discreet Masimatic)\second project  (Discreet Masimatic)\obj\Debug\second project  (Discreet Masimatic).csproj.CoreCompileInputs.cache
+D:\console\second project  (Discreet Masimatic)\second project  (Discreet Masimatic)\obj\Debug\second project  (Discreet Masimatic).exe
+D:\console\second project  (Discreet Masimatic)\second project  (Discreet Masimatic)\obj\Debug\second project  (Discreet Masimatic).pdb
